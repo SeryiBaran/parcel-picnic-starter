@@ -1,0 +1,13 @@
+{
+  "name": "parcel-picnic-starter",
+  "version": "1.0.0",
+  "license": "MIT",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
