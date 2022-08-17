@@ -4,8 +4,8 @@
   "license": "MIT",
   "source": "index.html",
   "scripts": {
-    "start": "parcel",
-    "build": "parcel build"
+    "start": "parcel --public-url ./",
+    "build": "parcel build --public-url ./"
   },
   "devDependencies": {
     "parcel": "latest"
